@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://clay051o8hng8"]
+
+[ext_resource type="Script" uid="uid://7ncsdy8exhpv" path="res://Scripts/Battle/GridView.cs" id="1_ael4v"]
+
+[node name="Battle" type="Node2D" unique_id=471968211]
+
+[node name="GridView" type="Node2D" parent="." unique_id=580302019]
+script = ExtResource("1_ael4v")
